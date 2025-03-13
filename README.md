@@ -14,4 +14,3 @@ This is a Task Management API built using **Spring Boot** and **Java**. It allow
 - Java, Spring Boot, Spring Security
 - MySQL/PostgreSQL
 - JWT for authentication
-
